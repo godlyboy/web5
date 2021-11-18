@@ -9,7 +9,7 @@ function resultproiz()
         alert('Вводите только числа(положительные)');
     }
     if(znach1===0||znach2===0){
-        alert('Введите числа');
+        alert('Ввести');
     }
     rezult = znach1*znach2;
     if(rezult<=0){
